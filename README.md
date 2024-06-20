@@ -35,6 +35,7 @@ A Drop-In Audio Social Media Application. It can be used by anyone but currently
 
 #### 5. Setup Agora
 
-#### 6. Run the project using `flutter run` or using your IDE's tools.
+#### 6. Generate the splash Screen: `dart run flutter_native_splash:create`
 
-#### 7. Splash Screen: `dart run flutter_native_splash:create`
+#### 7. Run the project using `flutter run` or using your IDE's tools.
+
