@@ -1,6 +1,6 @@
 # Dialogi
 
-Audio Chatting App written with Flutter and Firebase
+A Drop-In Social Media Application
 
 ## Preview
 
