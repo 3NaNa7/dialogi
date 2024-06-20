@@ -47,7 +47,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCc4D_ex9pDo7X0-06PkGimfZFjMfybyoA',
+    apiKey: '[Your API key]',
     appId: '1:132476325415:web:4e0335539e2a54b2270802',
     messagingSenderId: '132476325415',
     projectId: 'dialogi-18a51',
@@ -57,7 +57,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCux9URCRKb4ORe6lpl8V2TKK5WuCBLUwo',
+    apiKey: '[Your API key]',
     appId: '1:132476325415:android:76d839159bd207e6270802',
     messagingSenderId: '132476325415',
     projectId: 'dialogi-18a51',
@@ -65,7 +65,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDkSBrxWXHjmMqTyMpq5oBrP78n5Z8R8Hk',
+    apiKey: '[Your API key]',
     appId: '1:132476325415:ios:6771923b980ec9a9270802',
     messagingSenderId: '132476325415',
     projectId: 'dialogi-18a51',
