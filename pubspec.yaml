@@ -1,0 +1,50 @@
+name: clubhouse
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.2.2 <3.0.0'
+module:
+  androidX: true
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.0
+  agora_rtc_engine: ^6.1.0
+  permission_handler: ^9.2.0
+  firebase_auth: ^4.6.3
+  firebase_core: ^2.14.0
+  cloud_firestore: ^4.8.1
+  provider: ^6.0.5
+  pull_to_refresh: ^2.0.0
+  flutter_native_splash: ^2.2.19
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: DancingScript
+      fonts:
+        - asset: assets/fonts/DancingScript-Regular.ttf
+        - asset: assets/fonts/DancingScript-Medium.ttf
+        - asset: assets/fonts/DancingScript-Bold.ttf
+          weight: 900
+    - family: SignikaNegative
+      fonts:
+        - asset: assets/fonts/SignikaNegative-Regular.ttf
+        - asset: assets/fonts/SignikaNegative-Medium.ttf
+        - asset: assets/fonts/SignikaNegative-Light.ttf
+        - asset: assets/fonts/SignikaNegative-Bold.ttf
+          weight: 700
+          style: italic
