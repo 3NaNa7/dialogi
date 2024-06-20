@@ -1,14 +1,6 @@
 # Dialogi
 
-A Drop-In Social Media Application
-
-## Preview
-
-<p align="center">
- <img src="assets/screenshots/1.gif" width='200'/>
- <img src="assets/screenshots/2.gif" width='204.2'/>
- 
-</p>
+A Drop-In Audio Social Media Application. It can be used by anyone but currently tailored for KNUST students.
 
 ## Dependencies
 
@@ -19,8 +11,6 @@ A Drop-In Social Media Application
 - firebase_auth: https://pub.dev/packages/firebase_auth
 
 - cloud_firestore: https://pub.dev/packages/cloud_firestore
-
-- country_code_picker : https://pub.dev/packages/country_code_picker
 
 - pull_to_refresh : https://pub.dev/packages/pull_to_refresh
 
@@ -43,8 +33,8 @@ A Drop-In Social Media Application
 
 #### 4. Setup the Firebase App
 
-#### 5. Setup the Agora
+#### 5. Setup Agora
 
 #### 6. Run the project using `flutter run` or using your IDE's tools.
 
-### 7. Splash Screen: `dart run flutter_native_splash:create`
+#### 7. Splash Screen: `dart run flutter_native_splash:create`
