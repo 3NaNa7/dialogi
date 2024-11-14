@@ -1,6 +1,6 @@
 # Dialogi
 
-A Drop-In Audio Social Media Application. It can be used by anyone but currently tailored for KNUST students.
+A Real-time Audio Streaming and Drop-In Social Media Application. Join default rooms, create your own rooms, and discuss various academic topics of interest.
 
 ## Dependencies
 
